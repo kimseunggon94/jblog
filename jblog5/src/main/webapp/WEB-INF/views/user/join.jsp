@@ -30,7 +30,7 @@ $(function(){
 		
 		// ajax 통신
 		$.ajax({
-			url:"/jblog4/api/user/checkid?id="+id,
+			url:"/jblog5/api/user/checkid?id="+id,
 			type:"get",
 			dataType: "json",
 			data:"",
